@@ -6,4 +6,4 @@
 ## Method Used:
 -Data cleaning and transformation, KPI calculation and dashboard design.
 ## Result:
--Delivered a fully functional, user-friendly dashboard that enabled Product Performance by : -Monitor sales trends, customer behavior and product performance by Total_discount,Segment,Orders and Country. -Improve decision-making through real-time insights.
+-Delivered a fully functional, user-friendly dashboard that enabled Stake holders to : -Monitor sales trends, customer behavior and product performance by Total_discount,Segment,Orders and Country. -Improve decision-making through real-time insights.
